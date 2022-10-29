@@ -7,4 +7,26 @@ padding: 0px;
 body{
     background-color: #17181a ;
     height: 100vh;
+    color: white;
+    font-family: 'Abril Fatface', cursive;
 } 
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 18px 50px;
+}
+.menu-btn{
+    
+}
+
+.menu-item{
+    display: block;
+    background-color: white;
+    width: 50px;
+    height: 4px;
+}
+.menu-item-last{
+    display: block;
+    margin-top: 5px;
+}
