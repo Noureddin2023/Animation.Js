@@ -14,9 +14,11 @@ body{
 .navbar{
     display: flex;
     justify-content: space-between;
-    padding: 18px 50px;
+    padding: 18px 200px;
+    margin-top: 2%;
 }
 .menu-btn{
+    margin-top: 10px;
     
 }
 
@@ -29,4 +31,35 @@ body{
 .menu-item-last{
     display: block;
     margin-top: 5px;
+}
+.banner-image img{
+    width: 550px;
+    height: 550px;
+}
+.banner{
+    padding: 18px 200px;
+    margin: 7% 0%;
+}
+.banner-text{
+    display: inline-block;
+    width: 45%;
+    padding-left: 40px;
+}
+.banner-image{
+display: inline;
+    width: 48%;
+}
+.banner-text h1{
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+.banner-text-lorem{
+    margin-bottom: 25px;
+    font-size: 20px ;
+}
+.explore-btn{
+    padding: 15px 35px;
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
 }
