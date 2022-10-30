@@ -63,3 +63,16 @@ display: inline;
     color: white;
     text-decoration: none;
 }
+.colored-title{
+    color: rgb(86, 124, 228)
+
+}
+.navbar-animation{
+position: fixed;
+top: 0;
+left: 0;
+width:100% ;
+height: 100%;
+color: black;
+background-color: white;
+}
